@@ -9,6 +9,8 @@ Drug Grower (Can grow pure drugs)
 Drug Dealer (Sells the pure drugs)
 Drug Mixer (Mixes the ingredients to make the pure drugs)
 
+(You can choose the jobs in the garage behind the Fleeca Bank on Vespucci Blvd. The Fleeca Bank closest to the Mission Row PD
+
 ## Following items will be added:
 Coco Leaves
 Lysergicacidamide
