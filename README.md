@@ -26,3 +26,29 @@ Clean LSD
 2. Drug Grower sells the raw ingredients to the Drug Mixer
 3. The Drug Mixer mixes the ingredients and gets the pure LSD.
 4. Drug Dealer sells the pure LSD.
+
+## Screenshots of the locations of the diffrent things:
+
+Weed Harvest - https://i.imgur.com/FCQA0Nd.jpg
+
+Harness Harvest - https://i.imgur.com/mF8aAAq.jpg
+
+Benzoilmetilecgonina Harvest - https://i.imgur.com/YErKSDC.jpg
+
+Lysergicacidamide Harvest - https://i.imgur.com/EKLlsKI.jpg
+
+Coco Leaves Harvest - https://i.imgur.com/EC7j8LO.jpg
+
+LSD Mix (Blend Ingredients) - https://i.imgur.com/zbsZtTz.jpg
+
+Cocaine Mix (Blend Ingredients) - https://i.imgur.com/UAbwxfX.jpg (By the red door)
+
+Cocaine Mix Picture 2 - https://i.imgur.com/bgQXHuh.jpg (By the red door)
+
+Cocaine Mix Picture 3 - https://i.imgur.com/IijAwfh.jpg (This red door)
+
+Sell Weed - https://i.imgur.com/u6PNlhf.jpg
+
+Sell Cocaine (Pure) - https://i.imgur.com/XkOTTsT.jpg
+
+Sell LSD (Pure) - https://i.imgur.com/O2jVoPL.jpg
