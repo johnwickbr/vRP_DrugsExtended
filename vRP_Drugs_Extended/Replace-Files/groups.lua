@@ -984,7 +984,8 @@ cfg.selectors = {
 	  _config = {x = 135.9958190918, y = -1049.8746337891, z = 29.151815414429, blipid = 496, blipcolor = 1},
 	  "Drug Grower",
 	  "Drug Mixer",
-	  "Street Pusher"
+	  "Street Pusher",
+	  "Drug Dealer"
   },
   ["Police job"] = { -- Alta Street
     _config = {x = 447.35137939453, y = -975.57592773438, z = 30.689584732056, blipid = 351, blipcolor = 38, permissions = {"cop.whitelisted"} },
