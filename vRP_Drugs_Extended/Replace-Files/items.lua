@@ -11,6 +11,7 @@ cfg.items = {
   ["lysergicacidamide"] = {"Lysergicacidamide", "Some acid.", nil, 0.05}, -- no choices
   ["cocoleaves"] = {"Coco Leaves", "Some Coco Leaves.", nil, 0.15}, -- no choices
   ["cleancoke"] = {"Clean Cocaine", "Some Pure Cocaine.", nil, 0.10}, -- no choices
+  ["cleanlsd"] = {"Clean LSD", "Some Pure LSD.", nil, 0.10}, -- no choices
   ["AK47"] = {"AK47", "A Russian masterpeice.", nil, 0.01}, -- no choices
   ["M4A1"] = {"M4A1", "Helps give non-Americans freedom.", nil, 0.01}, -- no choices
   ["credit"] = {"Stolen Credit Card", "Credit card.", nil, 0.01}, -- no choices
